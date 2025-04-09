@@ -22,3 +22,6 @@ Install them with:
 
 ```bash
 pip install -r requirements.txt
+## 🖼️ Demo
+
+![Air Canvas Demo](demo.png)  <!-- or demo.gif -->
